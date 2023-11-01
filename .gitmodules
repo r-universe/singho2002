@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "gTestsMulti"]
+	path = gTestsMulti
+	url = https://github.com/cran/gTestsMulti
+[submodule "kerSeg"]
+	path = kerSeg
+	url = https://github.com/cran/kerSeg
+[submodule "kerTests"]
+	path = kerTests
+	url = https://github.com/cran/kerTests
